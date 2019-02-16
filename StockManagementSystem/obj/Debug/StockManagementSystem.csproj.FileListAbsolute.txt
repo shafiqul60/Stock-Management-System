@@ -1,0 +1,10 @@
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.pdb
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojAssemblyReference.cache
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Form1.resources
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.Properties.Resources.resources
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.GenerateResource.cache
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.exe
+C:\Users\Shafiqul\source\repos\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
